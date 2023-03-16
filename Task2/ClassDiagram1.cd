@@ -10,11 +10,11 @@
   <Class Name="Task2.Presenter">
     <Position X="4.25" Y="0.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQgAAABIAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAABIAAA=</HashCode>
       <FileName>Presenter.cs</FileName>
     </TypeIdentifier>
     <ShowAsAssociation>
-      <Property Name="Model" />
+      <Field Name="model" />
     </ShowAsAssociation>
   </Class>
   <Font Name="Segoe UI" Size="9" />

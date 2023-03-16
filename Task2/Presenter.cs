@@ -17,14 +17,6 @@ namespace Task2
             this.view.myEvent += new EventHandler(mainWindow_myEvent);
         }
 
-        public Model Model
-        {
-            get => default;
-            set
-            {
-            }
-        }
-
         void mainWindow_myEvent(object sender, System.EventArgs e)
         {
             var data = this.view.textBox1.Text;
